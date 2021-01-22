@@ -12,33 +12,11 @@ Placeholder role which installs Supervisor without any setup.
 
 ## Available parameters
 
-### Main
-
-Short description here.
-
-| Param | Description |
-| -------- | -------- |
-| | |
-| | |
-
-### Misc
-
-Short description here.
-
-| Param | Description |
-| -------- | -------- |
-| | |
-| | |
+The role does not support any parameters
 
 ## FAQ
 
-### 1st question here
-
-The answer here
-
-### Another question here
-
-Another answer
+...
 
 ## Useful links
 
